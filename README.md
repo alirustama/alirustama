@@ -122,8 +122,7 @@ Agile Methodology • Software Development Lifecycle (SDLC)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirustama&layout=compact&theme=tokyonight">
 </p>
-🌟 29 Projects Contributed This Year
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirustama&show_icons=true)
+
 ---
 
 
