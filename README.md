@@ -116,16 +116,37 @@ Agile Methodology • Software Development Lifecycle (SDLC)
 </p>
 
 ---
+## 📊 Most Used Languages
 
-## 📈 Most Used Languages
+### Core Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirustama&layout=compact&theme=tokyonight">
-</p>
+### Development & Backend
+- **Java:** Spring Boot, Spring MVC, Hibernate, JUnit, Maven
+- **Python:** Django, Flask, FastAPI, Pandas, NumPy
+- **Frameworks:** REST APIs, Microservices, Design Patterns
 
+### Testing & Automation
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![TestNG](https://img.shields.io/badge/-TestNG-FF6B6B?style=for-the-badge)
+
+- **Automation:** Selenium, Cypress, TestNG, Pytest
+- **API Testing:** Postman, RestAssured, API validation
+- **CI/CD:** Jenkins, GitHub Actions, GitLab CI
+
+### Data & ML
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **ML Models:** Scikit-Learn, TensorFlow, Keras
+- **Jupyter:** Notebooks for analysis & documentation
+- **VS Code:** To used for Developement
 ---
-
-
 ---
 
 ## 👀 Profile Views
